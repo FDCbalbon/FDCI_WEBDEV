@@ -27,7 +27,7 @@
                          <td>   
                              <strong>Address</strong>
                         </td>
-                        <td>Wrong address</td>
+                        <td>Correct address</td>
                     </tr>
                      <tr>
                         <td>
