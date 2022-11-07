@@ -21,7 +21,7 @@
                         <td>
                             <strong>Name</strong>
                         </td>
-                        <td>Balbon Test</td>
+                        <td>Mike Loel Balbon</td>
                     </tr>
                      <tr>
                          <td>   
