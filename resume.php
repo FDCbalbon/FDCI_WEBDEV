@@ -27,7 +27,7 @@
                          <td>   
                              <strong>Address</strong>
                         </td>
-                        <td>Lapay, Dawis, Bayawan City</td>
+                        <td>Nasayop ko sa Address</td>
                     </tr>
                      <tr>
                         <td>
