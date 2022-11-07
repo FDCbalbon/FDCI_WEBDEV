@@ -27,7 +27,7 @@
                          <td>   
                              <strong>Address</strong>
                         </td>
-                        <td>Nasayop ko sa Address</td>
+                        <td>Correct address</td>
                     </tr>
                      <tr>
                         <td>
