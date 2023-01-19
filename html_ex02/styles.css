@@ -1,0 +1,47 @@
+#sasukenon {
+  border: 1px solid black;
+}
+
+#sasukenrick {
+}
+
+#sarada {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+}
+
+#navbar {
+  height: 100px;
+  width: 100%;
+  background-color: navy;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 9999;
+  float: left;
+}
+
+#navbar .nav-item {
+  color: aliceblue;
+}
+
+/* #navbar2 {
+  height: 100px;
+  width: 100%;
+  background-color: rgb(255, 251, 0);
+} */
+
+.ken{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+.uchiha{
+  background-color: red;
+  color: blue;
+}
+

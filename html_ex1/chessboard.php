@@ -68,7 +68,8 @@
        <td width="100px" height="100px" bgcolor="white"></td>
        <td width="100px" height="100px"><font size="10"><strong>5</strong></font></td>
     </tr>
-    <td width="100px" height="100px" align="center"><font size="10"><strong>4</strong></font></td>
+    <tr width="100px" height="100px" align="center">    
+        <td width="100px" height="100px" align="center"><font size="10"><strong>4</strong></font></td>
        <td width="100px" height="100px" bgcolor="white"></td>
        <td width="100px" height="100px" bgcolor="black"></td>
        <td width="100px" height="100px" bgcolor="white"></td>
@@ -91,7 +92,8 @@
        <td width="100px" height="100px" bgcolor="white"></td>
        <td width="100px" height="100px"><font size="10"><strong>3</strong></font></td>
     </tr>
-    <td width="100px" height="100px" align="center"><font size="10"><strong>2</strong></font></td>
+    <tr width="100px" height="100px" align="center">
+        <td width="100px" height="100px" align="center"><font size="10"><strong>2</strong></font></td>
        <td width="100px" height="100px" bgcolor="white"></td>
        <td width="100px" height="100px" bgcolor="black"></td>
        <td width="100px" height="100px" bgcolor="white"></td>
